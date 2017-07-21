@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{D8CD95D5-A6D6-4E2F-9A33-6B4C903E558B}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="HeliumManagement.exe">HeliumManagement.bdsproj</Projects>
+      <Projects Name="SQLClients.dll">SQLClients.bdsproj</Projects>
+      <Projects Name="Targets">HeliumManagement.exe SQLClients.dll</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
