@@ -5,6 +5,4 @@ The Helium Management (HM) project is concerned with developing software and har
 
 Since 2026 the HM hardware and software is commercially available via the company [HZDRI](https://hzdr-innovation.de/en/hzdr-innovation-produkte/helium-management-system/). 
 
-https://hzdr-innovation.de/en/hzdr-innovation-products/helium-management-system/
-
 For a detailed documentation please refer to the [wiki](https://github.com/SampleEnvironment/Helium-Management/wiki)
